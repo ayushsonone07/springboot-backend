@@ -134,7 +134,7 @@ src/main/resources/application.properties
 Example:
 
 ```properties
-server.port=8080
+server.port=8000
 ```
 
 If database integration is added later, configure database properties here.
